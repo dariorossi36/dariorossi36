@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dariorossi36, a Theoretical Physics Master degree student at University of Pisa
+- 👋 Hi, I’m @dariorossi36, a Master student in Theoretical Physics at University of Pisa
 - 👀 I’m interested in in Gravitational Theories and Cosmology
 - 📫 How to reach me: d.rossi36@studenti.unipi.it
 - 😄 Pronouns: He/him/his
