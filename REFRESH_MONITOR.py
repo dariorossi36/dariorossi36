@@ -6,9 +6,9 @@ from email.mime.multipart import MIMEMultipart
 import time
 
 def send_email(subject, body):
-    sender_email = "dario.rossi17121999@email.com"
-    receiver_email = "dario.rossi.1712@email.com"
-    password = "callistoH2Osommersa"
+    sender_email = "dario.rossi.1712@gmail.com"
+    receiver_email = "dario.rossi.17121999@gmail.com"
+    password = "gtzl gqnn pbjq ekgn"
 
     message = MIMEMultipart()
     message["From"] = sender_email
